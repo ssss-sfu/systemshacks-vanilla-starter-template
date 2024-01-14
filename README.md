@@ -1,7 +1,7 @@
 # systemshacks-vanilla-starter-template
 Easily bootstrap hackathon website
 
-# Compiling SCSS
+## Compiling SCSS
 To compile all the scss files in src folder into compressed single main.css file in build folder, do this:
 
 `sass --no-source-map --style=compressed --watch src/styles/main.scss:build/main.css`
